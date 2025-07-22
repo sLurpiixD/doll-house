@@ -63,13 +63,13 @@ This project uses `INPUT_PULLUP` **because the switches didn't work reliably wit
 
 ## 🔗 EasyEDA Schematic
 
-📎 [View the EasyEDA circuit]()
+📎 [View the EasyEDA circuit](https://oshwlab.com/slurpiixd/1st-year)
 
 ---
 
 ## 📁 Project Files
 
-- `doll_house.ino` – Main Arduino sketch
+- `Doll-House.ino` – Main Arduino sketch
 - `README.md` – Project documentation
 
 ---
