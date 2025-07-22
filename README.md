@@ -61,9 +61,11 @@ This project uses `INPUT_PULLUP` **because the switches didn't work reliably wit
 
 ---
 
-## 🔗 EasyEDA Schematic
+## 🖼️ Schematic Diagram
 
-📎 [View the EasyEDA circuit](https://oshwlab.com/slurpiixd/1st-year](https://easyeda.com/editor#project_id=3c1ede2604694a798ef8dccb353a9a00)
+This is the schematic for the Doll House control system. It shows how 7 switches connect to the Arduino to control 5 LEDs and 2 fans.
+
+![Schematic](schematic.png)
 
 ---
 
