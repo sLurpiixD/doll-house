@@ -63,7 +63,7 @@ This project uses `INPUT_PULLUP` **because the switches didn't work reliably wit
 
 ## 🔗 EasyEDA Schematic
 
-📎 [View the EasyEDA circuit](https://oshwlab.com/slurpiixd/1st-year)
+📎 [View the EasyEDA circuit](https://oshwlab.com/slurpiixd/1st-year](https://easyeda.com/editor#project_id=3c1ede2604694a798ef8dccb353a9a00)
 
 ---
 
